@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150709170542) do
+ActiveRecord::Schema.define(version: 20151110051935) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -138,6 +138,7 @@ ActiveRecord::Schema.define(version: 20150709170542) do
     t.datetime "updated_at"
     t.integer  "downloads",  default: 0
     t.string   "slug"
+    t.datetime "retired_at"
   end
 
   add_index "rubygems", ["name"], name: "index_rubygems_on_name", unique: true, using: :btree
