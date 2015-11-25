@@ -142,8 +142,10 @@ fr:
       forgot_password: "Mot de passe oublié ?"
 
   stats:
-    show:
-      total_downloads: "Nombre de téléchargements"
+    index:
+      total_downloads: "Total de téléchargements"
+      total_gems: "Total de gems"
+      total_users: "Total d'utilisateurs"
 
   users:
     new:
