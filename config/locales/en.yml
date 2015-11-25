@@ -110,6 +110,7 @@ en:
       other_fields_notice: All other fields can only be edited by pushing an updated version of your gem.
     index:
       title: 'Gems'
+      downloads: Downloads
     show:
       not_hosted_notice: This gem is not currently hosted on Gemcutter.
       install: install
@@ -143,9 +144,10 @@ en:
 
   stats:
     index:
-      total_downloads: "Total downloads"
-      total_gems: "Total gems"
-      total_users: "Total gems"
+      total_downloads: Total downloads
+      total_gems: Total gems
+      total_users: Total gems
+      all_time_most_downloaded: All Time Most Downloaded
 
   users:
     new:
@@ -175,3 +177,8 @@ en:
       session:
         who: Email or Handle
         password: Password
+
+  will_paginate:
+    previous_label: "Previous"
+    next_label: "Next"
+    page_gap: "…"

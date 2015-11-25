@@ -110,6 +110,7 @@ fr:
       other_fields_notice: "Tous les autres champs ne sont modifiables qu'en soumettant une nouvelle version de votre gem."
     index:
       title: "Gems"
+      downloads: Téléchargements
     show:
       not_hosted_notice: "Ce gem n'est pas hébergé sur RubyGems.org actuellement."
       install: "installation"
@@ -146,6 +147,7 @@ fr:
       total_downloads: "Total de téléchargements"
       total_gems: "Total de gems"
       total_users: "Total d'utilisateurs"
+      all_time_most_downloaded: "Gems les plus téléchargés"
 
   users:
     new:

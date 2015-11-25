@@ -15,7 +15,9 @@
   </h2>
 </div>
 
-<h2 class="stats__graph__heading">All Time Most Downloaded</h2>
+<h2 class="stats__graph__heading">
+  <%= t('stats.index.all_time_most_downloaded') %>
+</h2>
 
 <% @most_downloaded.each do |gem| %>
   <div class="stats__graph__gem">
