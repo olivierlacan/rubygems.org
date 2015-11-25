@@ -11,7 +11,7 @@ fr:
   edit: "Modification"
   sign_in: "Connexion"
   sign_up: "Inscription"
-  footer_about: "RubyGems.org est le service d&rsquo;hébergement de la communauté Ruby. Publiez vos gems instantanément et utilisez-les. Utilisez l'API pour interagir et trouver des informations sur les gems disponibles. Contribuez et améliorez ce site avec nous !"
+  footer_about: "RubyGems.org est le service d&rsquo;hébergement de la communauté Ruby. Publiez et installez vos gems instantanément. Utilisez l'API pour interagir et trouver des informations sur les gems disponibles. Contribuez afin d'améliorer ce site avec nous !"
   locale_name: "Français"
   this_rubygem_could_not_be_found: "Gem introuvable."
 
@@ -57,12 +57,12 @@ fr:
         contribute: "Contribuer"
         supported_by: "Soutenu par"
         hosted_by: "Hébergé par"
-        designed_by: "Design par"
-        resolved_with: "Résolu par"
+        designed_by: "Designé par"
+        resolved_with: "Résolu avec"
         optimized_by: "Optimisé par"
-        tracking_by: "Tracking par"
+        tracking_by: "Statistiques par"
         monitored_by: "Monitoring par"
-        gems_served_by: "Gems mis à disposition par"
+        gems_served_by: "Gems servis par"
 
   pages:
     about:
